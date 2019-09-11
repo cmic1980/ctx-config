@@ -1,0 +1,3 @@
+rootProject.name = 'ctx-config'
+include 'ctx-aws-ps-spring-boot-starter'
+
